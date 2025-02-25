@@ -20,6 +20,7 @@
 - **Кеширование**: SharedPreferences
 - **UI**: RecyclerView, SwipeRefreshLayout, ViewBinding
 - **Асинхронные операции**: Kotlin Coroutines
+- **API**: VK Api
 
 ## Структура
 
